@@ -60,19 +60,7 @@ Após a atualização para Vitest 5.0.5, os sete testes e a compilação passara
 - Estados de carregamento, erro e lista vazia.
 - Layout adaptado para desktop e celular.
 - Validação local do formulário de newsletter.
-
-## Organização
-
-```text
-src/
-  components/   Componentes da página, vitrine e modal
-  services/     Consulta dos produtos e formatação de preços
-  types/        Tipos dos dados
-  styles/       Estilos Sass e ajustes responsivos
-public/
-  assets/       Imagens utilizadas na página
-tests/          Testes automatizados
-```
+  
 
 ## Decisões de implementação
 
